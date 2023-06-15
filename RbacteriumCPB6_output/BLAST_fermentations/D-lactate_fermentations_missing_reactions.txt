@@ -1,0 +1,5 @@
+D-lactate_fermentation_pathways	Rumbact	Rumbact_missing_reactions
+Chain-elongation_C4	0	[['Phosphotransacetylase'], ['Electron confurcating hydrogenase']]
+Chain-elongation_C6	0	[['Phosphotransacetylase']]
+Chain-elongation_C8	0	[['Phosphotransacetylase']]
+Chain-elongation_acetate_coutilization	0	[['Phosphotransacetylase']]

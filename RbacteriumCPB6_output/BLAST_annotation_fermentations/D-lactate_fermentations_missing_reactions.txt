@@ -1,0 +1,5 @@
+D-lactate_fermentation_pathways	Rumbact	Rumbact_missing_reactions
+Chain-elongation_C4	0	[['Electron confurcating hydrogenase']]
+Chain-elongation_C6	1	[]
+Chain-elongation_C8	1	[]
+Chain-elongation_acetate_coutilization	1	[]

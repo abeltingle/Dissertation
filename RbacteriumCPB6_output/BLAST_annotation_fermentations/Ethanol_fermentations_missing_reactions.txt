@@ -1,0 +1,5 @@
+Ethanol_fermentation_pathways	Rumbact	Rumbact_missing_reactions
+Chain-elongation_C4	0	[['Alcohol dehydrogenase (ethanol)'], ['Acetaldehyde dehydrogenase (acetylating)'], ['Electron confurcating hydrogenase']]
+Chain-elongation_C6	0	[['Alcohol dehydrogenase (ethanol)'], ['Acetaldehyde dehydrogenase (acetylating)']]
+Chain-elongation_C8	0	[['Alcohol dehydrogenase (ethanol)'], ['Acetaldehyde dehydrogenase (acetylating)']]
+Chain-elongation_acetate_coutilization	0	[['Alcohol dehydrogenase (ethanol)'], ['Acetaldehyde dehydrogenase (acetylating)']]

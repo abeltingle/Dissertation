@@ -1,0 +1,10 @@
+D-glucose_fermentation_pathways	Rumbact	Rumbact_missing_reactions
+Homolactic	1	[]
+Heterolactic_phosphoketolase	0	[['Glucose 6-Phosphate Dehydrogenase'], ['6-phosphogluconolactonase'], ['Phosphogluconate dehydrogenase', 'Phosphogluconate dehydrogenase (NAD)'], ['Phosphoketolase (xylulose-5-phosphate utilizing)'], ['Acetaldehyde dehydrogenase (acetylating)'], ['Alcohol dehydrogenase (ethanol)']]
+Heterolactic_bifid_shunt	0	[['Phosphoketolase (fructose-6-phosphate utilizing)'], ['Transaldolase'], ['Transketolase 1'], ['Phosphoketolase (xylulose-5-phosphate utilizing)']]
+Succinogenesis_1	0	[['Malate dehydrogenase'], ['Succinate dehydrogenase', 'Fumarate Reductase NADH'], ['Acetaldehyde dehydrogenase (acetylating)'], ['Alcohol dehydrogenase (ethanol)']]
+Succinogenesis_2	0	[['Malate dehydrogenase'], ['Succinate dehydrogenase', 'Fumarate Reductase NADH']]
+Succinogenesis_3	0	[['Malate dehydrogenase'], ['Succinate dehydrogenase', 'Fumarate Reductase NADH'], ['Pyruvate dehdyrogenase']]
+Succinogenesis_3_RNF	0	[['Malate dehydrogenase'], ['Succinate dehydrogenase', 'Fumarate Reductase NADH']]
+Ethanolgenesis	0	[['Glucose 6-Phosphate Dehydrogenase'], ['6-phosphogluconolactonase'], ['2-dehydro-3-deoxy-phosphogluconate aldolase'], ['Pyruvate decarboxylase'], ['Alcohol dehydrogenase (ethanol)']]
+Chain-elongation	1	[]

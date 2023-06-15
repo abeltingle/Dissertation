@@ -1,0 +1,2 @@
+D-lactate_fermentation_pathways	Chain-elongation_C4	Chain-elongation_C6	Chain-elongation_C8	Chain-elongation_acetate_coutilization
+Rumbact	0	0	0	0

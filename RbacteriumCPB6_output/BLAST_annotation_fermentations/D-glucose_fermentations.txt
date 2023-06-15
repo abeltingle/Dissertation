@@ -1,0 +1,2 @@
+D-glucose_fermentation_pathways	Homolactic	Heterolactic_phosphoketolase	Heterolactic_bifid_shunt	Succinogenesis_1	Succinogenesis_2	Succinogenesis_3	Succinogenesis_3_RNF	Ethanolgenesis	Chain-elongation
+Rumbact	1	0	0	0	0	0	0	0	1

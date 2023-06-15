@@ -1,0 +1,10 @@
+D-glucose_fermentation_pathways	Rumbact	Rumbact_missing_reactions
+Homolactic	0	[['Glucose-6-phosphate isomerase'], ['Phosphoglycerate mutase']]
+Heterolactic_phosphoketolase	0	[['Glucose 6-Phosphate Dehydrogenase'], ['6-phosphogluconolactonase'], ['Phosphogluconate dehydrogenase', 'Phosphogluconate dehydrogenase (NAD)'], ['Phosphoketolase (xylulose-5-phosphate utilizing)'], ['Phosphotransacetylase'], ['Acetaldehyde dehydrogenase (acetylating)'], ['Alcohol dehydrogenase (ethanol)'], ['Phosphoglycerate mutase']]
+Heterolactic_bifid_shunt	0	[['Glucose-6-phosphate isomerase'], ['Phosphoketolase (fructose-6-phosphate utilizing)'], ['Transaldolase'], ['Transketolase 1'], ['Ribose-5-phosphate isomerase'], ['Phosphoketolase (xylulose-5-phosphate utilizing)'], ['Phosphoglycerate mutase']]
+Succinogenesis_1	0	[['Glucose-6-phosphate isomerase'], ['Phosphoglycerate mutase'], ['Malate dehydrogenase'], ['Fumarase'], ['Succinate dehydrogenase', 'Fumarate Reductase NADH'], ['Acetaldehyde dehydrogenase (acetylating)'], ['Alcohol dehydrogenase (ethanol)'], ['Phosphotransacetylase']]
+Succinogenesis_2	0	[['Glucose-6-phosphate isomerase'], ['Phosphoglycerate mutase'], ['Malate dehydrogenase'], ['Fumarase'], ['Succinate dehydrogenase', 'Fumarate Reductase NADH'], ['Phosphotransacetylase']]
+Succinogenesis_3	0	[['Glucose-6-phosphate isomerase'], ['Phosphoglycerate mutase'], ['Malate dehydrogenase'], ['Fumarase'], ['Succinate dehydrogenase', 'Fumarate Reductase NADH'], ['Pyruvate dehdyrogenase'], ['Phosphotransacetylase']]
+Succinogenesis_3_RNF	0	[['Glucose-6-phosphate isomerase'], ['Phosphoglycerate mutase'], ['Malate dehydrogenase'], ['Fumarase'], ['Succinate dehydrogenase', 'Fumarate Reductase NADH'], ['Phosphotransacetylase']]
+Ethanolgenesis	0	[['Glucose 6-Phosphate Dehydrogenase'], ['6-phosphogluconolactonase'], ['2-dehydro-3-deoxy-phosphogluconate aldolase'], ['Phosphoglycerate mutase'], ['Pyruvate decarboxylase'], ['Alcohol dehydrogenase (ethanol)']]
+Chain-elongation	0	[['Glucose-6-phosphate isomerase'], ['Phosphoglycerate mutase']]
